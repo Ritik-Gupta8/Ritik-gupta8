@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ritik 👋</h1>
-<h3 align="center">Full-Stack Developer | AI Agent Integration</h3>
+<h3 align="center">Full-Stack Developer building AI-powered Web Applications</h3>
 
 ---
 
@@ -27,9 +27,14 @@
 
 ## 📌 Featured Projects
 
-- **Quiz Master App** – Full-stack quiz platform (AI features in progress)
-- **Smart Parking Management System** – Real-world system with admin/user roles
-- **Portfolio Website** – Personal projects showcase
+## 📌 Featured Projects
+
+- **Quiz Master App** – Full-stack quiz platform with role-based access and AI features in progress.
+- **My Ticket Show** – Mobile-responsive movie ticket booking web app built using Tailwind CSS and the same full-stack architecture as Quiz Master.  
+  🔗 Live Demo: https://my-ticket-show-3.onrender.com/
+- **Smart Parking Management System** – Real-world system with admin/user roles, parking allocation, and usage tracking.
+- **Portfolio Website** – Personal website showcasing projects and technical skills.
+
 
 ---
 
