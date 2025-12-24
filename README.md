@@ -20,7 +20,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,vue,react,nodejs,mongodb,mysql,git,linux,docker" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,vue,react,nodejs,mongodb,mysql,git,linux,docker,tailwindcss,bootstrap,sqlite,postgresql" />
 </p>
 
 ---
@@ -30,8 +30,7 @@
 ## 📌 Featured Projects
 
 - **Quiz Master App** – Full-stack quiz platform with role-based access and AI features in progress.
-- **My Ticket Show** – Mobile-responsive movie ticket booking web app built using Tailwind CSS and the same full-stack architecture as Quiz Master.  
-  🔗 Live Demo: https://my-ticket-show-3.onrender.com/
+- **My Ticket Show** – Mobile-responsive movie ticket booking web app built using Tailwind CSS ,Python ,Flask with role-based access.
 - **Smart Parking Management System** – Real-world system with admin/user roles, parking allocation, and usage tracking.
 - **Portfolio Website** – Personal website showcasing projects and technical skills.
 
