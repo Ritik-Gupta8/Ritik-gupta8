@@ -34,7 +34,6 @@
 - **Smart Parking Management System** – Real-world system with admin/user roles, parking allocation, and usage tracking.
 - **Portfolio Website** – Personal website showcasing projects and technical skills.
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -45,12 +44,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ritik-Gupta8&theme=darkhub&no-frame=true" />
-</p>
 
 ## 🐍 Contribution Snake
 
