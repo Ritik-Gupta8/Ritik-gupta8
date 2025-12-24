@@ -65,3 +65,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Ritik-Gupta8&theme=darkhub&no-frame=true" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritik-Gupta8/Ritik-Gupta8/output/github-contribution-grid-snake-dark.svg" />
+</p>
