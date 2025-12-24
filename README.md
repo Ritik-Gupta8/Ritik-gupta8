@@ -3,34 +3,17 @@
 
 ---
 
-🚀 **What I Do**
-- Build full-stack web applications
-- Integrate AI agents (chatbots, automation, intelligent features) into web apps
-- Focus on practical, production-oriented systems
+🚀 **What I Do**: Build full-stack web applications and integrate AI agents (chatbots, automation, intelligent features) with a focus on production-ready systems.
 
-🧠 **Currently Working On**
-- Adding AI agents to existing web applications  
-- Enhancing projects like Quiz platforms & Smart systems using AI  
-- Learning Agentic AI concepts for real-world use
+🧠 **Currently Working On**: Adding AI agents to existing web apps, enhancing quiz and smart systems with AI, and applying agentic AI concepts in real projects.
 
-🌱 **Currently Learning**
-- Agentic AI (LangChain-style orchestration)
-- TensorFlow fundamentals → deployment
-- Scalable backend design
+🌱 **Currently Learning**: Agentic AI (LangChain-style orchestration), TensorFlow fundamentals to deployment, and scalable backend design.
 
-🤝 **Open to Collaborate On**
-- Full-Stack + AI projects
-- AI-powered web applications
-- Automation & intelligent systems
+🤝 **Open to Collaborate On**: Full-stack + AI projects, AI-powered web applications, and automation-driven systems.
 
-💬 **Ask Me About**
-- Python, Flask, REST APIs
-- Vue.js / React
-- AI integration in web apps
+💬 **Ask Me About**: Python, Flask, REST APIs, Vue.js / React, and integrating AI into web applications.
 
-📫 **Reach Me**
-- Email: your@email.com  
-- Portfolio: https://yourusername.github.io
+📫 **Reach Me**: eren2000coder@gmail.com | [https://yourusername.github.io](https://ritik-gupta8.github.io/My-Portfolio/)
 
 ---
 
