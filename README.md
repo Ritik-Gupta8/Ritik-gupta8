@@ -5,7 +5,7 @@
 
 🚀 **What I Do**: Build full-stack web applications and integrate AI agents (chatbots, automation, intelligent features) with a focus on production-ready systems.
 
-🧠 **Currently Working On**: Adding AI agents to existing web apps, enhancing quiz and smart systems with AI, and applying agentic AI concepts in real projects.
+🧠 **Currently Working On**: Adding AI agents to my existing web apps, enhancing them with AI, and applying agentic AI concepts in real projects.
 
 🌱 **Currently Learning**: Agentic AI (LangChain-style orchestration), TensorFlow fundamentals to deployment, and scalable backend design.
 
@@ -24,8 +24,6 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
 
 ## 📌 Featured Projects
 
