@@ -13,7 +13,7 @@
 
 💬 **Ask Me About**: Python, Flask, REST APIs, Vue.js / React, and integrating AI into web applications.
 
-📫 **Reach Me**: eren2000coder@gmail.com | [My-Portfolio](https://ritik-gupta8.github.io/My-Portfolio/)
+📫 **Conatct Me**: eren2000coder@gmail.com | [My-Portfolio](https://ritik-gupta8.github.io/My-Portfolio/)
 
 ---
 
