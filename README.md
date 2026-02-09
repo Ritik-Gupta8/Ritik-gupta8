@@ -21,7 +21,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,vue,react,nodejs,mongodb,mysql,git,linux,docker,tailwindcss,bootstrap,sqlite,postgresql" />
-</p>
+</p> 
 
 ---
 
