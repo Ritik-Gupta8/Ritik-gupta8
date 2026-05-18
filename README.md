@@ -20,19 +20,47 @@
 
 ## 🧰 Languages & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,typescript,html,css,flask,vue,react,nodejs,mongodb,mysql,postgresql,sqlite,redis,docker,git,linux,tailwind,bootstrap,tensorflow" />
-</p>
+## 🧰 Languages & Tools
+
+## 🧰 Languages & Tools
 
 <p align="center">
-<b>AI / Backend:</b> Gemini API, LangChain, RAG Basics, REST APIs, Celery, Redis Caching, Background Jobs  
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,vue,react,tailwind,bootstrap,mysql,postgresql,sqlite,redis,docker,git,github,linux,postman,tensorflow,gcp" />
 </p>
+
+---
+
+## 💻 Technical Skills
+
+### 🔹 Programming Languages
+Python, JavaScript, SQL (SQLite, MySQL, PostgreSQL), HTML5, CSS3
+
+### 🔹 Frameworks & Libraries
+Flask, Vue.js, React.js, Tailwind CSS, Bootstrap, REST APIs
+
+### 🔹 Generative AI & Agents
+Google Gemini API, Google ADK, Prompt Engineering, Multi-Agent Workflows, Tool Calling, AI Integration
+
+### 🔹 Cloud & Databases
+Supabase (PostgreSQL), Google Cloud, Redis, Flask-Migrate
+
+### 🔹 Asynchronous & Background Tasks
+Celery, Task Queues, Caching, Scheduled Jobs
+
+### 🔹 PWA & Performance
+Service Workers, Web Manifest, Responsive Design
+
+### 🔹 Analytics & Visualization
+Matplotlib, Chart.js
+
+### 🔹 Version Control & Tools
+Git, GitHub, Postman, Browser DevTools
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Quiz Master App
+### 🔹 Quiz Master AI - Powered
 AI-powered quiz platform with role-based access, personalized quiz generation, analytics dashboard, progress tracking, and responsive PWA support.
 
 ### 🔹 Smart Parking Management System
@@ -41,8 +69,6 @@ Parking allocation and reservation system with admin/user roles, real-time slot 
 ### 🔹 My Ticket Show
 Movie ticket booking platform with authentication, seat management, admin controls, and mobile-responsive UI built using Flask and Tailwind CSS.
 
-### 🔹 Hospital Management System
-Role-based healthcare management platform for patients, doctors, and admins with appointment scheduling and treatment management.
 
 ### 🔹 Portfolio Website
 Personal portfolio showcasing projects, technical skills, and development experience.
