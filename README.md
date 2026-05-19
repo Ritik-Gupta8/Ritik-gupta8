@@ -21,7 +21,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,vue,react,tailwind,bootstrap,mysql,postgresql,sqlite,redis,docker,git,github,linux,postman,tensorflow,gcp,RESTAPI,aws,gemini ai" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,vue,react,tailwind,bootstrap,mysql,postgresql,sqlite,redis,docker,git,github,linux,postman,tensorflow,gcp" />
 </p>
 
 ---
