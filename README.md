@@ -36,22 +36,6 @@ AI-powered quiz platform with role-based access, personalized quiz generation, a
 ### 🔹 Smart Parking Management System
 Parking allocation and reservation system with admin/user roles, real-time slot handling, booking history, and dynamic pricing calculation.
 
-### 🔹 My Ticket Show
-Movie ticket booking platform with authentication, seat management, admin controls, and mobile-responsive UI built using Flask and Tailwind CSS.
-
-
-### 🔹 Portfolio Website
-Personal portfolio showcasing projects, technical skills, and development experience.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ritik-Gupta8&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik-Gupta8&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
