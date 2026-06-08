@@ -20,7 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikgupta-rp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eren2000coder@gmail.com) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
