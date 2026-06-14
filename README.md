@@ -7,7 +7,7 @@
 
 - **Experience With**: AI-powered features, REST APIs, authentication systems, background jobs, caching, chatbot integrations, and production-oriented web application development.
 
-- **Currently Learning**: RAG pipelines, LangChain, agentic AI workflows, TensorFlow fundamentals, and scalable AI application architecture.
+- **Currently Learning**: RAG pipelines, LangChain, agentic AI workflows, and scalable AI application architecture.
 
 - **Open to Collaborate On**: Full-stack applications, AI-integrated products, automation systems, and developer tools.
 
